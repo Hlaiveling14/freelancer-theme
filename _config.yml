@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 color:
   primary: 999999 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"  this is the gray background
-  secondary: 669999 #FD6E8A teal stripe background
+  secondary: 476b6b #FD6E8A teal stripe background
   secondary-dark: 233140 #A2122F
 
 # Footer settings
