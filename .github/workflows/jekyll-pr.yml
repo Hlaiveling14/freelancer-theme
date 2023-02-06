@@ -22,3 +22,5 @@ jobs:
         run: bundle exec jekyll build
       - name: Deploy PR Preview
         uses: rossjrw/pr-preview-action@v1.2.0
+        with:
+          source-dir: ./_site/
