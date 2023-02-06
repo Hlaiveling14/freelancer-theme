@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-08-01
-img: circus.jpg
+img: cabin.jpg
 alt: image-alt
 project-date: 2023-08-01
 client: TBD
