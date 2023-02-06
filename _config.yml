@@ -27,7 +27,7 @@ color:
   primary: 999999 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"  this is the gray background
   secondary: 476b6b #FD6E8A teal stripe background
-  secondary-dark: 233140 #A2122F
+  secondary-dark: ff8c00 #A2122F dark orange/highlights
 
 # Footer settings
 footer:
@@ -48,7 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Northern Kentucky
+  - line: Northern Kentucky, United States
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
