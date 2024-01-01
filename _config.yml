@@ -1,9 +1,9 @@
 # Site settings
-title: Residental real estate rentals
+title: Rental Homes - where comfort meets community
 email: holly@odysseydreamproperties.com
 url: http://odysseydreamproperties.com
 description: "Odyssey Dream Properties"
-keywords: "real estate, rentals"
+keywords: "real estate, rentals, rental property"
 meta_author: Laiveling Holly
 
 # Google webmaster tools
@@ -49,7 +49,7 @@ address:
   - line: Northern Kentucky, United States
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
