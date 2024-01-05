@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 3
-date: 2023-01-01
+modal-id: 1
+date: 2024-01-01
 img: ComingSoonOrange.png
 alt: image-alt
-project-date: Fall 2024
-client: TBD
+project-date: Summer 2024
+client: Edgewood
 category: Residential Rentals
-description: Property description coming soon.
+description: Three bedroom, 2.5 bath fully remodeled home in walking distance of country club, schools, and park.  Home has craftsman-style woodwork, solid core paneled interior doors, new windows, a remodeled kitchen with quartz countertops, wide plank hickory flooring, fenced yard, large composite deck, a shed, and more.  Trees in backyard promote a park like feeling.
 ---
