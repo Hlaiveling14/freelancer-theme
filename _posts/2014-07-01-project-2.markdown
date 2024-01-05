@@ -4,7 +4,7 @@ modal-id: 2
 date: 2023-01-01
 img: ComingSoonOrange.png
 alt: image-alt
-project-date: December 2023
+project-date: Fall 2024
 client: TBD
 category: Residential Rentals
 description: Property description coming soon.
