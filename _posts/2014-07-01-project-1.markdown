@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2024-01-01
-img: ComingSoonOrange.png
+img: FrontDaytonHouse.gif
 alt: image-alt
-project-date: Summer 2024
-client: Edgewood
+project-date: August 2024
+client: Dayton, Ky
 category: Residential Rentals
-description: Three bedroom, 2.5 bath fully remodeled home in walking distance of country club, schools, and park.  Home has a remodeled kitchen with quartz countertops, wide plank hickory flooring, fenced yard, large composite deck, a shed, 2 car garage, new windows and more.  Trees in backyard promote a park like feeling.
+description: Two bedroom, 1 bath set among the rolling hills of Dayton, Kentucky.
 ---
