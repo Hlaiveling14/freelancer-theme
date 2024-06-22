@@ -7,6 +7,6 @@ img: FrontDaytonHouse.gif
 alt: image-alt
 project-date: August 2024
 client: Dayton, Ky
-category: Residential Rentals
+category: Coming Soon
 description: This charming two bedroom, 1 bath home set in the rolling hills of Dayton, Kentucky offers the perfect blend of old world charm and modern amenities.  Electric fireplace, updated kitchen with stainless appliances and double oven, stained glass windows, pocket doors, first floor laundry with new washer and dryer, large deck, fenced yard, and full unfinished basement with walkout. Nestled in a friendly neighborhood near a park, walking distance to Bellevue shops and restaurants, and minutes to Downtown Cincinnati, Cincinnati/Northern Kentucky International Airport & major interstates.
 ---
